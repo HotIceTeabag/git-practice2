@@ -8,3 +8,6 @@ def mui(a, b):
     return a*b
 
 print(add(10, 5))
+
+def div(a, b):
+    return a/b
